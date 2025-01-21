@@ -8,43 +8,16 @@
 </head>
 <body>
     <header>
-        <h1>Paskibra Lebih dari Sekadar Baris-Berbaris</h1>
         <nav class="navbar">
-            <a href="index.html">Beranda</a>
-            <a href="tentang.html">Tentang Paskibraka</a>
-            <a href="formasi.html">Formasi Paskibraka</a>
-            <a href="nilai.html">Nilai Positif</a>
         </nav>
     </header>
     <main>
         <div id="content">
             <article>
-                <h1><b>Mari Kenali Paskibra, Lebih dari Barisan!</b></h1>
-                <hr>
-                <br>
-                <img src="image\paskibraka.jpg" alt="Foto Paskibraka">
-                <p><b>Paskibra (Pasukan Pengibar Bendera) </b> adalah sebuah organisasi yang terdiri dari pelajar terpilih yang memiliki tanggung jawab mulia dalam pengibaran dan penurunan Bendera Pusaka pada peringatan Hari Kemerdekaan Republik Indonesia. 
-                    Lebih dari sekadar barisan, Paskibra mengajarkan nilai <b>kedisiplinan</b>, <b>kepemimpinan</b>, <b>kerja sama tim</b>, dan <b>rasa cinta tanah air</b>.
-                </p>
-                <p>
-                    Website ini hadir untuk memberikan wawasan lebih tentang <b>Paskibra</b> dan <b>Paskibraka</b>, termasuk sejarah, formasi upacara, serta manfaat positif yang dapat diperoleh oleh anggotanya. 
-                    Temukan informasi lengkap dan inspirasi dari berbagai kegiatan yang kami lakukan.
-                </p>
         </article>
         </div>
     
         <aside>
-            <img src="image\aside.jpg" alt="Foto Diri">
-            <h3><b>Biodata</b></h3>
-            <p>Saya Suwaz Jahidah Ash Shaffa, aktif dalam Paskibra yang melatih disiplin dan kerja tim. Saya memiliki minat di bidang teknologi, khususnya pengembangan web, dengan keterampilan HTML, CSS, JavaScript, serta dasar front-end dan back-end. Saya bercita-cita menjadi web developer profesional yang menciptakan solusi teknologi bermanfaat.</p>
-            <br>
-            <h3><b>Skill</b></h3>
-            <ul>
-                <li>UI/UX Design</li>
-                <li>HTML, CSS, dan JavaScript</li>
-                <li>Front-end Development</li>
-                <li>Problem Solving</li>
-            </ul>
         </aside>
     </main>
 
